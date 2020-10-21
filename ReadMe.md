@@ -16,12 +16,14 @@
   <img align="left" alt="Sandip's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sandipswain)
+![](https://visitor-badge.glitch.me/badge?page_id=sandipswain.sandipswain)
 
 <br />
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454">
+
+![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandipswain&layout=compact&theme=chartreuse-dark)
 
 <hr>
 
