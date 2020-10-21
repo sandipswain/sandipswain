@@ -43,7 +43,7 @@ _Languages and Tools:_ 🛠
 
 <img src="code.gif" align="right" height="40%" width="42%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454" align="center" width="60%">
+<img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454" align="center" width="52%">
 
 
 ## The Languages I Use
