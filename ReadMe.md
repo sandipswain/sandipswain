@@ -41,9 +41,9 @@ _Languages and Tools:_ 🛠
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454" align="center" width="40%">
 
-<img src="code.gif" align="right" height="80%" width="52%">
+<img src="code.gif" align="right" height="80%" width="42%">
 
 ## The Languages I Use
 
