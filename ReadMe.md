@@ -1,3 +1,26 @@
+### Hey there I am Sandip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://t.me/SpectralCone">
+  <img align="left" alt="Sandip's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/sandip-swain-1a0615168/">
+  <img align="left" alt="Sandip's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.hackerrank.com/SpectralCone">
+  <img align="left" alt="Sandip's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+<a href="https://www.codechef.com/users/spectralcone">
+  <img align="left" alt="Sandip's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+<hr>
+
 <img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454">
 
 <hr>
