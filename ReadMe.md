@@ -21,9 +21,9 @@
 <br />
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454">
+<img src="https://github-readme-stats.vercel.app/api?username=sandipswain&&show_icons=true&title_color=FF7F50&icon_color=ffa500&text_color=bdff7a&bg_color=151454" align="center">
 
-![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandipswain&layout=compact&theme=chartreuse-dark)
+<center>![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandipswain&layout=compact&theme=chartreuse-light)</center>
 
 <hr>
 
