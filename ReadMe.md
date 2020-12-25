@@ -18,6 +18,8 @@
   <img align="left" alt="Sandip's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
+<br>
+
 <hr>
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"  height="200px" align="left">
 <hr>
