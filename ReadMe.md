@@ -34,13 +34,16 @@ _Languages and Tools:_ 🛠
 <img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" height="30" src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png">
+<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
 
 
-
+<br>
 <hr>
 <br/>
 <br/>
+<br/>
+<hr>
 
 ## My GitHub Stats
 
