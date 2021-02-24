@@ -26,14 +26,14 @@
 
 _Languages and Tools:_ 🛠
 
-<img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
-<img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-<img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
