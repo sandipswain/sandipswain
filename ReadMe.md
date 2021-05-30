@@ -24,19 +24,20 @@
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"  height="200px" align="left">
 <hr>
 
-_Languages and Tools:_ 🛠
+_Programming Languages 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/fabiospampinato/vscode-github-notifications-bell/master/resources/logo.png">
-<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
 
+_Framework and Libraries 🛠 :
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 <br>
 <hr>
