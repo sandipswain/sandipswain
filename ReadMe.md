@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/sandipswain/sandipswain/master/profile.gif
 ## Hey, there I am Sandip <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Connect with me on
